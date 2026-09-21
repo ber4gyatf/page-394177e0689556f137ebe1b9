@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5b59a75d4a4dbd1818ae81c4",
+  "owner": "ber4gyatf",
+  "repo": "page-394177e0689556f137ebe1b9",
+  "title": "Xeno",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "394177e0689556f137ebe1b9",
+      "a": "Xeno",
+      "b": "稳定全球clash加速器",
+      "entity": "Xeno",
+      "brand": "Xeno",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3b550443199f0c60a1de3b8e901f39bcab41cc1bcb89152c61784eb1d9fed5b0",
+      "content": {
+        "primary_entity": "Xeno",
+        "keyword1": "Xeno",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash、Shadowrocket、Sing-box 等常用客户端中导入 Xeno 订阅，按设备系统选择对应客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选择 Xeno 客户端",
+          "AI_CLOSING_TEXT": "访问 Xeno 客户端页面下载对应版本，按引导导入订阅，即可在各设备上使用。",
+          "AI_CLOSING_TITLE": "开始使用 Xeno",
+          "AI_DESCRIPTION": "，提供月度与年度订阅，基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量与 IPLC 专线，团队版每月 85 元含 1000GB 流量，覆盖 3 至 20 台设备同时在线的使用场景。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量与订阅周期三个角度快速了解 Xeno。",
+          "AI_FEATURES_TITLE": "Xeno 套餐与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 15 元、100GB 流量，旗舰版每月 35 元、300GB 流量，团队版每月 85 元、1000GB 流量。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，年度订阅价格分别为 150 元、350 元与 850 元。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线并优化游戏加速，团队版提供 VIP 专属高带宽节点与企业定制路由选项。",
+          "AI_FEATURE_TITLE_1": "套餐规格",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅权益",
+          "AI_GUIDE_INTRO": "三步完成 Xeno 订阅导入与客户端配置。",
+          "AI_GUIDE_TITLE": "Xeno 使用步骤",
+          "AI_HERO_INTRO": "Xeno 为需要稳定全球网络连接的用户提供多档订阅方案，支持在常用代理客户端中导入使用，涵盖个人到小团队的设备规模。",
+          "AI_HERO_SUBTITLE": "稳定全球连接的多档订阅",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏需求，团队版适合多人协作。",
+          "AI_PLANS_TITLE": "Xeno 套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和预算，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端是否支持订阅导入，并核对套餐的设备数量限制。",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅地址或配置文件，按客户端文档完成导入后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Xeno 全球加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xeno套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可以。如需变更套餐，在订阅周期结束后选择新档位即可，月付与年付均支持续费时调整。",
+          "AI_FAQ_QUESTION_2": "设备数量超出套餐限制会怎样？",
+          "AI_FAQ_ANSWER_2": "超出在线设备数量上限时，新设备可能无法建立连接，建议根据常用设备数量选择对应档位，或升级至团队版。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格为月付的十个月费用，相当于节省两个月，适合长期稳定使用的用户；月付更灵活，适合短期需求。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏加速和低延迟场景优化，适合对响应速度敏感的用户，配合全节点流媒体解锁可兼顾日常使用。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些定制功能？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并提供VIP高带宽节点和专属客户经理服务，适合多设备协作的小型团队。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "prvip.cn",
+    "host": "prvip.cn"
+  },
+  "file_hashes": {
+    "index.html": "9678cdd117501798144caf7e917c1caa772317de973ef02510cee848490a5570",
+    "sitemap.xml": "d8508c290e1f5b0df40af16caeed214cf32e14cb0acd2cae9108755f29ede429",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b32c84fc71c813c7cef4c4bc9788ab16577f4ded34eac42a256f621ae7a829ca",
+    "robots.txt": "375612ad6b3096bf0b109494b336854b2a11f0855ba87e88402e7c441e43d3f2",
+    "94d9ff585a99c7b873f136582571f810.txt": "d881d156412e5ac45d5987797a6ddafd7163198edd4d45ec94c3499f9039ce9c"
+  },
+  "revision": "f08b17fcccec71506f357c8764ba731de31b77638abf3303537ecec3382fd2d6"
+}
